@@ -11,7 +11,7 @@ Customizations include:
 
 ## Preview
 
-> *(Add a screenshot of your GRUB here)*
+> *(Screenshot will be uploaded soon)*
 
 ---
 
